@@ -28,4 +28,16 @@ The SiGN-BN binaries include SFMT Copyright © 2006, 2007 Mutsuo Saito, Makoto M
 Please cite our publications (see PUBLICATIONS in the web site) when you publish your results.
 
 
+## Binaries
+### SiGN-BN HC+BS rel. 1.8.3 binary for Linux x86-64 (signbn.1.8.3.gz)
+- Gzipped executable binary compiled for Linux x86-64.
+- The required libraries are statically linked. Therefore, this should work on every general linux x86-64 system.
+- Confirmed to work on CentOS 8 with AMD EPYC 7502P, CentOS 7 with Intel(R) Xeon(R) Gold 6154.
+
+### SiGNB-BN NNSR rel. 0.16.8 binary for Linux x86-64 (signbnnnsr.0.16.8.gz)
+- Gzipped executable binary compiled for Linux x86-64.
+- This is parallelized with Open MPI 4.1.0. You require Open MPI installed on your system and to execute this via mpirun command.
+- Set the Open MPI library path to the environment variable LD_LIBRARY_PATH if you have an error about the missing library file.
+- FYI: Using a server with Intel Xeon Platinum 8160 (2.1GHz) CPUs and 64 processes, it takes 1 hour and a half to finish the network estimation with "-T 15000" option for GN-10k-500.edf.txt, which can be downloaded from the web site.
+
 Copyright (C) 2024 Yoshinori Tamada
