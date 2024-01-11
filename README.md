@@ -25,7 +25,7 @@ The software and this license document are provided AS IS with NO WARRANTY OF AN
 
 The SiGN-BN binaries include SFMT Copyright © 2006, 2007 Mutsuo Saito, Makoto Matsumoto and Hiroshima University, & Copyright © 2012 Mutsuo Saito, Makoto Matsumoto, Hiroshima University and The University of Tokyo.
 
-Please cite our publications (see PUBLICATIONS in the home page) when you publish your results.
+Please cite our publications (see PUBLICATIONS in the web site) when you publish your results.
 
 
 Copyright (C) 2024 Yoshinori Tamada
