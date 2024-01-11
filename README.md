@@ -10,14 +10,16 @@ I recommend using SiGN-BN 2 series or INGOR.
 The SiGN-BN executable binaries are available under the following terms.
 
 Use Restrictions
-You may not:
 
-modify, translate, reverse engineer, decompile, disassemble or otherwise attempt to reconstruct or discover the source code from the binaries of the Software, except to the extent applicable laws specifically prohibit such restriction.
-create derivative works based on the software (e.g. incorporating the software in a commercial product or service without a proper license).
-copy the software.
-rent, lease, sublicense, convey, distribute or otherwise transfer rights to the software.
-remove any product identification, copyright, proprietary notices or labels from the software.
+You may not:
+- modify, translate, reverse engineer, decompile, disassemble or otherwise attempt to reconstruct or discover the source code from the binaries of the Software, except to the extent applicable laws specifically prohibit such restriction.
+- create derivative works based on the software (e.g. incorporating the software in a commercial product or service without a proper license).
+- copy the software.
+- rent, lease, sublicense, convey, distribute or otherwise transfer rights to the software.
+- remove any product identification, copyright, proprietary notices or labels from the software.
+
 Limitations of Liability
+
 In no event shall the initial developers or copyright holders be liable for any damages whatsoever, including - but not restricted to - lost revenue or profits or other direct, indirect, special, incidental or consequential damages, even if they have been advised of the possibility of such damages, except to the extent invariable law, if any, provides otherwise.
 
 No Warranty
